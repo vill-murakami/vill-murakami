@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/vill-murakami?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 
 <!--
 **vill-murakami/vill-murakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
